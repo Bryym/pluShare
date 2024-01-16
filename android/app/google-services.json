@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215045470631",
+    "project_id": "plushare",
+    "storage_bucket": "plushare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215045470631:android:229adab185134b95a71e82",
+        "android_client_info": {
+          "package_name": "com.example.plushare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaxB1NrLAomrErSFLP7ji60Ltk9suk7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
